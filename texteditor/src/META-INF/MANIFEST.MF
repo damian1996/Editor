@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: richtextfx-fat-0.7-M5.jar
+Main-Class: sample.Main
+

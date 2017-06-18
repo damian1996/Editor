@@ -1,0 +1,41 @@
+.code-area {
+    -fx-background-color: rgb(20, 20, 20);
+}
+.caret {
+    -fx-stroke: #D8D8D8;
+}
+
+.text {
+    -fx-fill: #D8D8D8;
+}
+.keyword {
+    -fx-fill: #CC7832;
+    -fx-font-weight: bold;
+}
+.semicolon {
+    -fx-font-weight: bold;
+}
+.paren {
+    -fx-font-weight: bold;
+}
+.bracket {
+    -fx-font-weight: bold;
+}
+.brace {
+    -fx-font-weight: bold;
+}
+.string {
+    -fx-fill: #A5C25C;
+}
+
+.comment {
+    -fx-fill: cadetblue;
+}
+
+.lineno {
+    -fx-background-color: #000000;
+}
+
+.paragraph-box:has-caret {
+    -fx-background-color: #323232;
+}
